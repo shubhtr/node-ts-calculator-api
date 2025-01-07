@@ -4,6 +4,11 @@
 
 This repository demonstrates Git branching operations.
 
+The environments are as follows:
+
+Dev -> Stable -> Prod
+
+
 
 ## Features
 
